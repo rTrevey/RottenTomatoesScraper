@@ -1,8 +1,8 @@
 RottenTomatoesScraper
 =====================
 
-#RottenTomatoesScraper
-##Objects for Mutliple Results (MovieSearchResult) and single movie pages (MoviePage) with Preview methods.
+##RottenTomatoesScraper
+Objects for Mutliple Results (MovieSearchResult) and single movie pages (MoviePage) with Preview methods.
 
 The initial search query is raw_input but could be changed to command-line argument. Function returns custom object MoviePage, which could be serialized to json.
 
